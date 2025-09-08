@@ -28,7 +28,6 @@
 ### 💡 A Bit About Me
 - 👨‍💻 **AI Engineer** | **Data Scientist** | **ML Enthusiast**  
 - 🎓 **B.Tech in CSE (Data Science)** at **KIT College of Engineering, Kolhapur**  
-- 🔥 Currently working on **AI-Powered Research Summaries** & **Personalized Education Systems**  
 - 📚 Expertise in:  
   - Machine Learning, Deep Learning, Generative AI  
   - RAG Systems, LLMs, NLP, Computer Vision  
