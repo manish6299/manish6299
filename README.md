@@ -14,9 +14,9 @@ I love working on **Machine Learning, Deep Learning, and Generative AI** project
 
 ## 📊 DSA Practice Profiles  
 I actively practice **Data Structures and Algorithms** on:  
-- [GeeksforGeeks](#)  
-- [LeetCode](#)  
-- [HackerRank](#)  
+- [GeeksforGeeks](https://www.geeksforgeeks.org/user/manishyadav6299/)  
+- [LeetCode](https://leetcode.com/u/manishyadav6299/)  
+- [HackerRank](https://www.hackerrank.com/profile/manishyadav6299)  
 
 ---
 
