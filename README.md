@@ -1,37 +1,33 @@
 # 👋 Hi, I'm Manish Kumar Yadav  
 
-🚀 **Data Scientist | Backend Engineer | AI Engineer**  
-
-🎓 B.Tech CSE (Data Science), KIT College of Engineering, Kolhapur (2021–2025)  
-💻 Passionate about **AI, Generative AI, Backend Development & Data Science**  
+🚀 **AI Engineer | Data Scientist | Problem Solver**  
 
 ---
 
-## 🔧 Skills  
-- **Languages:** Python, Java, SQL  
-- **Frameworks:** Flask, FastAPI, REST API, Streamlit, LangChain, LangGraph  
-- **AI/ML:** TensorFlow, PyTorch, NLP, RAG, LLMs (Gemini, GPT, LLaMA2)  
-- **Databases:** MySQL, MongoDB, PostgreSQL, Firebase  
-- **Cloud:** AWS (EC2, Lambda, RDS, DynamoDB, S3), GCP  
+## 🧑‍💻 About Me  
+I am passionate about building **AI-driven solutions** that solve real-world problems.  
+**B.Tech in CSE (Data Science)** at **KIT College of Engineering, Kolhapur**.  
+I love working on **Machine Learning, Deep Learning, and Generative AI** projects, and I continuously improve my **problem-solving skills** by practicing **Data Structures & Algorithms** across multiple platforms.  
 
 ---
 
-## 📌 Projects  
-- [AI-Powered Research Summaries](https://github.com/manish6299/AI-Powered-Research-Summaries)  
-- [Personalized Education Enhancement System](https://pees-d1101.web.app/)  
-- [AI Chatbot Agents](https://github.com/manish6299/AI-Chatbot-Agents)  
-- [Social IQ Chatbot](https://github.com/manish6299/Social-IQ-Chatbot)  
-- [Bank Management System](https://github.com/manish6299/bank-management-system-java-mysql)  
+
+## 📊 DSA Practice Profiles  
+I actively practice **Data Structures and Algorithms** on:  
+- [GeeksforGeeks](#)  
+- [LeetCode](#)  
+- [HackerRank](#)  
 
 ---
 
-## 📜 Certifications  
-Java – HackerRank | Python – HackerRank | AWS Academy | Data Analytics – Great Learning  
+
+
+## 📫 Contact Me  
+- 🌐 Portfolio: [GitHub Profile](https://github.com/manish6299)  
+- 💼 LinkedIn: [linkedin.com/in/manishyadav23](https://www.linkedin.com/in/manishyadav23/)  
+- 📧 Email: **manishyadav62995@gmail.com**  
+- 📱 Mobile: **+91-6299515059**  
 
 ---
 
-## 🌐 Connect With Me  
-📧 [Email](mailto:manishyadav62995@gmail.com)  
-💼 [LinkedIn](https://www.linkedin.com/in/manishyadav23/)  
-🌐 [Portfolio](https://manishkumaryadav.netlify.app/)  
-💻 [GitHub](https://github.com/manish6299)  
+⭐️ *“Be a major part of an organization that harbors talent, encourages innovation, provides challenging tasks, and promotes growth.”*  
