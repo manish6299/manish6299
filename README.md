@@ -23,7 +23,7 @@
 🔍 Passionate about building **AI-driven solutions** that solve real-world problems.  
 🎯 Obsessed with innovation, clean code, and making a real difference through technology! 🚀  
 
-<img align="right" alt="GIF" src="https://github.com/Keshav-Kant/Keshav-Kant/blob/master/coding.gif?raw=true" width="380" height="280" />
+<img align="right" alt="GIF" src="https://github.com/manish6299/manish6299/blob/master/coding.gif?raw=true" width="380" height="280" />
 
 ### 💡 A Bit About Me
 - 👨‍💻 **AI Engineer** | **Data Scientist** | **ML Enthusiast**  
@@ -177,9 +177,7 @@ I turn complex problems into elegant AI solutions! 🤖✨
 
 ## 📊 GitHub Stats  
 
-
-<!--END_SECTION:waka-->
-
 ![Manish's GitHub stats](https://github-readme-stats.vercel.app/api?username=manish6299&show_icons=true&theme=radical)
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=manish6299&layout=compact&theme=radical)](https://github.com/manish6299)
+
