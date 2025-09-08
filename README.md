@@ -1,4 +1,4 @@
-## 🚀 Welcome to [Manish Kumar Yadav's](https://manishkumaryadav.netlify.app/) Hub!  
+## 🚀 ⚡ Building Intelligence, One Model at a Time  [Manish Kumar Yadav's](https://manishkumaryadav.netlify.app/)!  
 <a href="https://github.com/manish6299"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 
 <div align="center">
