@@ -1,16 +1,37 @@
-## Hi there 👋
+# 👋 Hi, I'm Manish Kumar Yadav  
 
-<!--
-**manish6299/manish6299** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Data Scientist | Backend Engineer | AI Engineer**  
 
-Here are some ideas to get you started:
+🎓 B.Tech CSE (Data Science), KIT College of Engineering, Kolhapur (2021–2025)  
+💻 Passionate about **AI, Generative AI, Backend Development & Data Science**  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔧 Skills  
+- **Languages:** Python, Java, SQL  
+- **Frameworks:** Flask, FastAPI, REST API, Streamlit, LangChain, LangGraph  
+- **AI/ML:** TensorFlow, PyTorch, NLP, RAG, LLMs (Gemini, GPT, LLaMA2)  
+- **Databases:** MySQL, MongoDB, PostgreSQL, Firebase  
+- **Cloud:** AWS (EC2, Lambda, RDS, DynamoDB, S3), GCP  
+
+---
+
+## 📌 Projects  
+- [AI-Powered Research Summaries](https://github.com/manish6299/AI-Powered-Research-Summaries)  
+- [Personalized Education Enhancement System](https://pees-d1101.web.app/)  
+- [AI Chatbot Agents](https://github.com/manish6299/AI-Chatbot-Agents)  
+- [Social IQ Chatbot](https://github.com/manish6299/Social-IQ-Chatbot)  
+- [Bank Management System](https://github.com/manish6299/bank-management-system-java-mysql)  
+
+---
+
+## 📜 Certifications  
+Java – HackerRank | Python – HackerRank | AWS Academy | Data Analytics – Great Learning  
+
+---
+
+## 🌐 Connect With Me  
+📧 [Email](mailto:manishyadav62995@gmail.com)  
+💼 [LinkedIn](https://www.linkedin.com/in/manishyadav23/)  
+🌐 [Portfolio](https://manishkumaryadav.netlify.app/)  
+💻 [GitHub](https://github.com/manish6299)  
