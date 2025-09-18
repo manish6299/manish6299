@@ -175,9 +175,4 @@ I turn complex problems into elegant AI solutions! 🤖✨
 
 ---
 
-## 📊 GitHub Stats  
-
-![Manish's GitHub stats](https://github-readme-stats.vercel.app/api?username=manish6299&show_icons=true&theme=radical)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=manish6299&layout=compact&theme=radical)](https://github.com/manish6299)
 
